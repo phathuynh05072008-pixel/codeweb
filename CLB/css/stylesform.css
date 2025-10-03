@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h2 {
+  font-family: sans-serif;
+  background-color: rgb(173, 76, 76);
+  padding: 10px;
+  text-align: center;
+}
+.form {
+  background: white;
+  padding: 20px 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 300px;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a:visited,
+a:link {
+  color: black;
+  text-decoration: none;
+}
+button {
+  width: 20%;
+  border: none;
+  padding: 5px;
+  border-radius: 10%;
+}
+button:hover {
+  background-color: red;
+}
+a:hover {
+  color: white;
+}

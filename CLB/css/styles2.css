@@ -1,0 +1,55 @@
+h2 {
+  text-align: center;
+  background-color: rgb(49, 125, 125);
+  background-size: cover;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.box {
+  width: 15%;
+  text-align: left;
+  background-color: rgb(78, 191, 191);
+}
+.box ul {
+  list-style-type: none;
+  text-align: center;
+}
+.box li {
+  background-color: blue;
+  border: 1px solid white;
+}
+.box a:link,
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+.box a:hover {
+  text-decoration: underline;
+}
+.img_ {
+  width: 100%;
+}
+.nd dl {
+  margin: 2%;
+}
+.nd dt {
+  font-weight: bold;
+}
+.nd dd {
+  padding-top: 2%;
+}
+.DK {
+  text-align: center;
+  background-color: rgb(26, 219, 219);
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.DK button[type="submit"] {
+  border: none;
+  padding: 10px;
+  border-radius: 2px;
+}
+.nDK:hover {
+  background-color: red;
+  color: white;
+}
