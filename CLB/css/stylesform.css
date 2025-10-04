@@ -34,7 +34,5 @@ button {
 }
 button:hover {
   background-color: red;
-}
-a:hover {
   color: white;
 }
